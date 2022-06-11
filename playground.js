@@ -1,4 +1,4 @@
-/* Map com this */
+/* Map, função com this */
 
 const mamao = {
     value: 2,
