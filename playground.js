@@ -1,4 +1,6 @@
-/* Map, função com this */
+/*Map...praticando sintaxe e multiplicação de numeros, 
+utilizando o parametro this de um objeto, 
+depois sem o parametro this.*/
 
 const mamao = {
     value: 2,

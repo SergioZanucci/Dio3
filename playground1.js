@@ -1,4 +1,4 @@
-/* Função sem this. */
+/* Função sem this.Map... */
 
 
 function MapSemThis(arry, thisArg) {
